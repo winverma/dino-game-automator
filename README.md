@@ -1,6 +1,4 @@
-# Chrome Dino Game
-
-> This is a recreation of everyone's favorite offline companion, google chrome dinosaur game, with the same classic monochrome interface.
+# Chrome Dino Game - Automated!
 
 ## Instructions
 - Press `Any Key` to start the game.
